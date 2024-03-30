@@ -1,0 +1,18 @@
+Acuerdo de Licencia
+
+Este software es proporcionado por Roberto Molina ("el Desarrollador") y se puede utilizar de acuerdo con los términos y condiciones de esta licencia. El uso de este software implica la aceptación de estos términos.
+
+Este software es proporcionado "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. En ningún caso el Desarrollador será responsable de ningún daño directo, indirecto, incidental, especial, ejemplar o consecuente (incluyendo, pero no limitado a, la adquisición de bienes o servicios sustitutos; pérdida de uso, datos o beneficios; o interrupción del negocio) sin embargo causado y bajo cualquier teoría de responsabilidad, ya sea en contrato, responsabilidad estricta o agravio (incluyendo negligencia o de otra manera) que surja de cualquier manera del uso de este software, incluso si se ha advertido de la posibilidad de tales daños.
+
+Soporte Técnico:
+Para cualquier consulta o soporte técnico relacionado con este software, póngase en contacto con el Desarrollador en la dirección de correo electrónico: soporte@seinemcorphn.com
+
+Uso Libre:
+Este software es gratuito para su uso y redistribución bajo las siguientes condiciones:
+
+- No se permite la modificación del código fuente o los archivos binarios de este software sin el consentimiento del Desarrollador.
+- El Desarrollador no se hace responsable de cualquier daño causado por el uso o la redistribución de este software.
+
+Al continuar con la instalación de este software, usted acepta los términos y condiciones de esta licencia.
+
+Roberto Molina
